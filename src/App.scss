@@ -1,0 +1,77 @@
+$small: 672px;
+$events-map-mobile-threshold: 1100px;
+
+//@import '~carbon-components/scss/globals/scss/vendor/@carbon/type/scss/font-family.scss';
+//@import '~carbon-components/scss/globals/scss/vendor/@carbon/layout/scss/breakpoint.scss';
+//@import '~carbon-components/scss/globals/scss/typography.scss';
+//@import '~carbon-components/scss/globals/scss/vars.scss';
+
+//@import './content/Dashboard/Dashboard.scss';
+@import './content/Login/Login.scss';
+//@import './content/Onboard/Onboard.scss';
+//@import './content/Events/Events.scss';
+//@import './content/Access/Access.scss';
+//@import './content/Sensors/Sensors.scss';
+//@import './content/AccountSettings/AccountSettings.scss';
+
+//@import './components/RightInformationPanel/RightInformationPanel.scss';
+//@import './components/Tile/Tile.scss';
+//@import './components/Shell/Shell.scss';
+//@import './components/EventsMap/EventsMap.scss';
+//@import './components/EarthquakeList/EarthquakeList.scss';
+//@import './components/SaveHeader/SaveHeader.scss';
+//@import './components/Field/Field.scss';
+
+//@import './scrollbar.scss';
+
+.display-none {
+  display: none !important;
+}
+
+.space-t-2 {
+  margin-top: $spacing-02;
+}
+
+.space-b-2 {
+  margin-bottom: $spacing-02;
+}
+
+.space-b-3 {
+  margin-bottom: $spacing-03;
+}
+
+.marb-0 {
+  margin-bottom: 0 !important;
+}
+
+.marb-1 {
+  margin-bottom: $layout-01;
+}
+
+.marb-2 {
+  margin-bottom: $layout-02;
+}
+
+.marb-3 {
+  margin-bottom: $layout-03;
+}
+
+.marb-4 {
+  margin-bottom: $layout-04;
+}
+
+.marb-5 {
+  margin-bottom: $layout-05;
+}
+
+.mart-1 {
+  margin-top: $layout-01;
+}
+
+.no-padding-left {
+  padding-left: 0;
+}
+
+.no-padding-right {
+  padding-right: 0;
+}
