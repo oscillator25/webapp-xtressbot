@@ -34,9 +34,7 @@ const LandingPage = () => {
               <a href="/">Getting started</a>
             </BreadcrumbItem>
           </Breadcrumb>
-          <h1 className="landing-page__heading">
-            Twinning &amp; the Sustainability
-          </h1>
+          <h1 className="landing-page__heading">Twinning the Sustainability</h1>
         </div>
       </div>
       <div className="bx--row landing-page__r2">
