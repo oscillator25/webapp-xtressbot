@@ -72,9 +72,9 @@ const LandingPage = () => {
                   </div>
                   <div className="bx--col-md-4 bx--offset-lg-1 bx--col-lg-8">
                     <img
-                      className="landing-page__illo"
-                      src={`${process.env.PUBLIC_URL}/tab-illo.png`}
-                      alt="Carbon illustration"
+                      className="landing-page__illustration"
+                      src={`${process.env.PUBLIC_URL}/Illustration.jpg`}
+                      alt="Design illustration"
                     />
                   </div>
                 </div>

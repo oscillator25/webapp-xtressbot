@@ -82,7 +82,6 @@ const Login = ({ history }) => {
                 </p>
               ) : null}
             </div>
-
             <LoginInput
               step={step}
               setStep={setStep}
