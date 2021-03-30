@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "95c630b2c2cc41c8fc19",
-    "url": "/static/css/main.d31b12e7.chunk.css"
+    "revision": "be86bd7505e630ed4066",
+    "url": "/static/css/main.7b3b1ebb.chunk.css"
   },
   {
-    "revision": "95c630b2c2cc41c8fc19",
-    "url": "/static/js/main.e7e33b46.chunk.js"
+    "revision": "be86bd7505e630ed4066",
+    "url": "/static/js/main.80ab2488.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/static/media/openeew_logo.2d7b9168.svg"
   },
   {
-    "revision": "fda207959b3b55481f6a246705501834",
+    "revision": "d8719c732611755dc84b6c2e26312e58",
     "url": "/index.html"
   }
 ];
